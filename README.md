@@ -15,16 +15,6 @@ For this project, I wanted to create a game that can be added to the portfolio. 
 
     # import time library
     import time
-
----
-
-# Declaring a variable
-
- declare variable to generate a random number from 1 - 6 similar to one dice # randomint
-
-dice1 = random.randint(1, 6)
-dice2 = random.randint(1, 6)
-
 ---
 
 # Delay of time
