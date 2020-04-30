@@ -1,13 +1,42 @@
+# Py-Project-Dice-Game
 
 <a href="https://imgur.com/CrPIPmP"><img src="https://i.imgur.com/CrPIPmP.png" title="source: imgur.com" /></a>
 
-# Py-Project-Dice-Game
-
 # About
-This dice game is focused upon the user making doubles when rolling the dice. It will ask to try again each time the dice is rolled.
-Enjoy!
 
-# How To Run
+For this project, I wanted to create a game that can be added to the portfolio. I present to you my first Py game, Dice Game.
+
+# What I learned
+
+.: Py Libraries :.
+
+    # import random library
+    import random
+
+    # import time library
+    import time
+
+---
+
+.: Declaring a variable :.
+
+# declare variable to generate a random number from 1 - 6 similar to one dice # randomint
+
+dice1 = random.randint(1, 6)
+dice2 = random.randint(1, 6)
+
+---
+
+.: Delay of time
+
+# place a delay upon the code.
+
+    time.sleep(1)
+    
+
+# How To RUN the game.
  - Open Terminal
  - python3 app.py 
  - Enjoy
+
+
