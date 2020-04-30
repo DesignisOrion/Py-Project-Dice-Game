@@ -18,18 +18,17 @@ For this project, I wanted to create a game that can be added to the portfolio. 
 
 ---
 
-.: Declaring a variable :.
+# Declaring a variable
 
-# declare variable to generate a random number from 1 - 6 similar to one dice # randomint
+ declare variable to generate a random number from 1 - 6 similar to one dice # randomint
 
 dice1 = random.randint(1, 6)
 dice2 = random.randint(1, 6)
 
 ---
 
-.: Delay of time
-
-# place a delay upon the code.
+# Delay of time
+place a delay upon the code.
 
     time.sleep(1)
     
